@@ -3,7 +3,7 @@
 💡 &nbsp;I like to learn and try new things.\
 🎓 &nbsp;Software Engineering student in Universidad San Buenaventura.\
 🌱 &nbsp;I am interested in web development and Machine Learning. Right now, I'm doing a cybersecurity course.\
-✍️ &nbsp;English and Spanish.\
+✍️ &nbsp;English and Spanish.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -55,14 +55,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/valentina-beca-garcia-67875a308"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+<a href="www.linkedin.com/in/valentina-beca-garcia-67875a308" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/valentina0612">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
